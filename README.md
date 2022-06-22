@@ -1,4 +1,4 @@
-# JpaConsultasAvancadas<br><br
+# JpaConsultasAvancadas<br>
 Este projeto aborda os seguintes tópicos: <br>
 
 Mais relacionamentos<br>
