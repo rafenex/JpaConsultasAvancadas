@@ -1,8 +1,8 @@
 # JpaConsultasAvancadas<br>
 Este projeto aborda os seguintes tópicos: <br>
 
-Mais relacionamentos<br>
-Consultas avançadas<br>
-Performance de consultas<br>
-Criteria API<br>
-Outros tópicos
+- Mais relacionamentos
+- Consultas avançadas
+- Performance de consultas
+- Criteria API
+- Outros tópicos
